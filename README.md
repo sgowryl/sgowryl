@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning computer science at the university of liverpool
 - 🌱 Worked as a software engineer intern at stoneX financials ltd, London
+- 🦖 My portfolio https://sgowryl.netlify.app/
 - 📫 How to reach me - sgowrylakshmi@gmail.com
 
 <!---
